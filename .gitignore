@@ -1,0 +1,6 @@
+*.log
+*.temp
+vendor
+.idea
+.vscode
+backend
